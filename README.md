@@ -1,4 +1,7 @@
 # First repository with exercises in dPrep
+
+Trying stuff out in Github Desktop, this is an exercise. 
+
 ## branch 
 
 This is a basic example repository using Gnu make for a reproducible research workflow, as described in detail here: [tilburgsciencehub.com](http://tilburgsciencehub.com/). 
